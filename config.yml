@@ -1,0 +1,4 @@
+port: 8888
+auth: mytoken
+files:
+  test: /Users/haigeek/Downloads/test.txt

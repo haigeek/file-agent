@@ -1,0 +1,13 @@
+*.back
+*.xml
+*.iml
+.idea
+/dist
+*.tar
+__debug_bin
+fileagent
+/image
+/output
+/data
+/conf
+
